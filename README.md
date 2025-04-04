@@ -1,3 +1,31 @@
+**이 프로젝트는 React 기반의 TypeScript 프로젝트이며, 아래와 같은 주요 패키지들을 설치했습니다.**
+
+## 📦 기본 라이브러리
+
+- `react` `^19.0.0`: UI를 구성하는 메인 라이브러리
+- `react-dom` `^19.0.0`: 브라우저 DOM과 React를 연결
+- `react-scripts` `^5.0.1`: Create React App의 빌드 및 실행 도구
+- `typescript` `^4.9.5`: 정적 타입을 지원하는 자바스크립트 superset
+
+## 💅 스타일링
+
+- `styled-components` `^6.1.16`: CSS-in-JS 방식의 스타일링 라이브러리
+- `@types/styled-components`: styled-components의 타입 지원
+
+---
+
+## 📌 Commit 규칙
+
+- feat: 새로운 기능 추가
+- fix: 버그 수정
+- docs: 문서 수정
+- style: 코드 포맷팅
+- refactor: 기능 변경 없는 리팩토링
+- test: 테스트 코드 추가
+- chore: 기타 변경 사항
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
